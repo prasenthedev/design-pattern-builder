@@ -28,8 +28,7 @@ src/main/java/com/designpatterns/builder/
 └── Main.java         # runnable demo
 src/test/java/com/designpatterns/builder/
 └── PizzaBuilderTest.java
-article/
-└── builder-medium.md # the Medium write-up
+
 ```
 
 ## What this demonstrates
